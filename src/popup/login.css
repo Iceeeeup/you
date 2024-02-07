@@ -1,0 +1,38 @@
+.tbm{
+    font-size: 50px;
+    color:#C2A891;
+    display: flex;
+   
+    width: 1480px;
+    height: 833px;
+    background-color: #633D19;
+    justify-content: center;
+    line-height: 200px;
+
+}
+.talk {
+    justify-content: center;
+    line-height: 200px;
+    margin: auto;
+    
+}
+
+.log{
+    font-size: 50px;
+    color:#633D19;
+    display: flex;
+    width: 750px;
+    height: 833px;
+    background-color: #C2A891;
+    justify-content: center;
+    line-height: 200px;
+
+}
+
+.login {
+    float: right;
+    line-height: 200px;
+    float: right;
+}
+
+
